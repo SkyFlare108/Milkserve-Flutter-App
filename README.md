@@ -1,1 +1,1 @@
-
+# Using Android Studio with Flutter GUI, I developed a milk trading application for NW Share, to manage their nonprofit milk trading service. The main features include constant updating on the stock of milk given and received from the customers. The Google Sheets API was used to update data in real-time to Google sheets which the business owner can use to observe and analyze orders.
